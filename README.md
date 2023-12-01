@@ -1,5 +1,5 @@
 # viral-bacterial-pneumonia-classification
-Repository for pneumonia classification
+Repository for pneumonia classification of the conference paper entitled [Viral and Bacterial Pneumonia Classification from X-ray Images Using Deep Convolutional Neural Networks](https://www.researchgate.net/publication/353287149_Viral_and_Bacterial_Pneumonia_Classification_from_X-ray_Images_Using_Deep_Convolutional_Neural_Networks)
 # Model
 The models that had been used:
 * Simple CNN
